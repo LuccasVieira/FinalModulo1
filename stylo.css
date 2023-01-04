@@ -60,7 +60,7 @@ form{
 .Texto2{
     width: 272px;
     height: 28px;
-    font: "inter";
+    font-family: "inter";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
